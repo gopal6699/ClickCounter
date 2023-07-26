@@ -1,0 +1,32 @@
+.container {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+  text-align: center;
+}
+
+.heading {
+  color: #2d3a35;
+  font-weight: bold;
+}
+
+.count {
+  color: #c20a72;
+  font-weight: bold;
+}
+
+.description {
+  color: #2d3a35;
+}
+
+.button {
+  background-color: #007bff;
+  padding: 8px;
+  border-style: none;
+  color: white;
+  border-radius: 4px;
+}
